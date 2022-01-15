@@ -13,7 +13,7 @@ import {HttpClientModule} from "@angular/common/http";
   declarations: [
     HomeComponent,
     RegisterComponent,
-    LoginComponent
+    LoginComponent,
   ],
   imports: [
     CommonModule,
